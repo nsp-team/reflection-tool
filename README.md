@@ -2,7 +2,7 @@
 
 A PHP reflection library to directly access protected/private properties and call protected/private methods.
 
-This library works with major versions of PHP from 5.3 to 7.4.
+This library works with major versions of PHP  7.3.
 
 # Installation
 
