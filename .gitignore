@@ -1,0 +1,19 @@
+# Ignore PhpStorm files
+/.idea/
+
+# Ignore Visual Studio Code files
+/.vscode/
+
+# Ignore files under Mac
+.DS_Store
+
+# Ignore phplint files
+/phplint.cache
+
+# Ignore file phpunit.xml
+/phpunit.xml
+
+# Ignore Composer files
+/composer.lock
+/composer.phar
+/vendor/
