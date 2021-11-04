@@ -1,0 +1,25 @@
+{
+    "name": "nsp-team/reflection-tool",
+    "description": "允许直接访问受保护/私有属性并调用受保护/私有方法",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "maoxp",
+            "email": "maoxingpei8686@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "keywords": [
+        "reflection",
+        "webman"
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NspTeam\\Reflection\\": "src/"
+        }
+    }
+}
